@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AboutMe</string>
+    <string name="name">Hoelscher</string>
+    <string name="yellow_star">Yellow Star</string>
+    <string name="bio">Hi, my name is Hoelscher.\n\nI am currently a student at University Malaysia Terengganu.\nMy major is Computer Science (Mobile Computing)\nI like to play computer games
+    during free time and also enjoy going outdoors sometimes.\nI usually play Football Manager and Motorsport Manager games.\nI also interested about cars. My favorite car is Lamborghini Aventador.
+    \nIt has a V12 engine, producing power output between 690 to 770 horsepower.\nIt can accelerate from 0 to 100 kilometer per hour in 3 seconds.\nThe top speed is 330 kmh.</string>
+    <string name="what_is_your_nickname"> What is your nickname?</string>
+    <string name="done">Done</string>
+</resources>
